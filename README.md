@@ -1,1 +1,1 @@
-# Power-BI-Dashboards
+This repository showcases interactive Power BI dashboards built to analyse and visualise data across different domains. The dashboards demonstrate skills in data cleaning, modelling, DAX calculations, and visual storytelling, turning raw datasets into clear, actionable insights. Each project highlights best practices in design, usability, and performance optimisation.
